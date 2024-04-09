@@ -8,10 +8,6 @@ This project is a simple React application that allows users to search for GitHu
 - Display a list of GitHub users with their avatars and usernames.
 - View user profiles by clicking on the "Profile" button.
 
-## Live at
-
-You can try the app live [here](https://currency-converter-hs-v1.netlify.app/).
-
 ## Installation
 
 1. Clone the repository to your local machine:
