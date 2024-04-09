@@ -13,7 +13,7 @@ This project is a simple React application that allows users to search for GitHu
 1. Clone the repository to your local machine:
 
 ```bash
-    git clone https://github.com/hsatya/currency-converter
+    git clone https://github.com/hsatya/github-finder
 ```
 
 2. Navigate to the project directory:
